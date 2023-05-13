@@ -7,8 +7,6 @@ NEWS_FOLDER = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news")
 
 NEWS_FILES = {
     "news1.html"
-    "news2.html"
-    "news3.html"
 }
 
 @app.route("/")
